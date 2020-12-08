@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/RootChain/static/css/main.3bb08a72.chunk.css",
-    "main.js": "/RootChain/static/js/main.cecb1163.chunk.js",
-    "main.js.map": "/RootChain/static/js/main.cecb1163.chunk.js.map",
+    "main.css": "/RootChain/static/css/main.24e7d701.chunk.css",
+    "main.js": "/RootChain/static/js/main.3dbffdde.chunk.js",
+    "main.js.map": "/RootChain/static/js/main.3dbffdde.chunk.js.map",
     "runtime-main.js": "/RootChain/static/js/runtime-main.ccdefcfc.js",
     "runtime-main.js.map": "/RootChain/static/js/runtime-main.ccdefcfc.js.map",
     "static/css/2.1a02f21c.chunk.css": "/RootChain/static/css/2.1a02f21c.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.f235eb52.chunk.js.map": "/RootChain/static/js/3.f235eb52.chunk.js.map",
     "index.html": "/RootChain/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/RootChain/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.3bb08a72.chunk.css.map": "/RootChain/static/css/main.3bb08a72.chunk.css.map",
+    "static/css/main.24e7d701.chunk.css.map": "/RootChain/static/css/main.24e7d701.chunk.css.map",
     "static/js/2.b6b534cb.chunk.js.LICENSE.txt": "/RootChain/static/js/2.b6b534cb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ccdefcfc.js",
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.b6b534cb.chunk.js",
-    "static/css/main.3bb08a72.chunk.css",
-    "static/js/main.cecb1163.chunk.js"
+    "static/css/main.24e7d701.chunk.css",
+    "static/js/main.3dbffdde.chunk.js"
   ]
 }
