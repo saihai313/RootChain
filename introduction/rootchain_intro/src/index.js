@@ -8,9 +8,9 @@ import reportWebVitals from './reportWebVitals';
 import ReactGA from "react-ga";
 ReactGA.initialize('UA-188024314-1');
 ReactGA.pageview(window.location.pathname + window.location.search);
-ReactGA.event({category: 'Benefit', action: 'click'});
-ReactGA.event({category: 'Case', action: 'click'});
-ReactGA.event({category: 'Technology', action: 'click'});
+ReactGA.event({category: 'a', action: 'click'});
+ReactGA.event({category: 'b', action: 'click'});
+ReactGA.event({category: 'c', action: 'click'});
 ReactGA.event({category: 'ContactUs', action: 'click'});
 
 ReactDOM.render(
