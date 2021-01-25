@@ -12,6 +12,7 @@ ReactGA.event({category: 'Benefit', action: 'click'});
 ReactGA.event({category: 'Case', action: 'click'});
 ReactGA.event({category: 'Technology', action: 'click'});
 ReactGA.event({category: 'ContactUs', action: 'click'});
+ReactGA.event({category: 'test', action: 'click'});
 
 ReactDOM.render(
   <React.StrictMode>
